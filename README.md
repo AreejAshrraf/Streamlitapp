@@ -4,3 +4,5 @@ With this app, you can:
 ✅ Select the target variable 
 ✅ Automatically train machine learning models using PyCaret's AutoML functionality 
 ✅ View the best-performing model and its performance metrics
+Uploading Untitled video - Made with Clipchamp (3).mp4…
+
